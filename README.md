@@ -19,6 +19,11 @@
 
  - HTML / CSS / JS
 
+## Implantação em produção
+
+ - Back end: Heroku
+ - Banco de dados: Mysql
+
 ## Desenvolvedores
  - Daniel Vieira Barbosa Da Silva
  - José Elton
