@@ -1,7 +1,7 @@
 # Projeto-Integrador-M3
 
 # InfoSearch
-[![NPM](https://img.shilds.io/nom/1/react)](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/LICENSE)
+[![NPM]([https://img.shilds.io/nom/1/react](https://img.shields.io/badge/License-MIT-green)](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/LICENSE)
 
 ## Sobre o projeto
 
