@@ -1,9 +1,12 @@
 ## Projeto-Integrador-M3
+
+# InfoSearch
 [![NPM](https://img.shilds.io/nom/1/react)](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/LICENSE)
 
 # Sobre o projeto
 
-Bem vindo ao nosso projeto de Preço Histórico de Combustível no Brasil. Aqui você pode pesquisar e visualizar os dados dos preços máximos, médios e mínimos dos combustíveis em diferentes estado e anos.
+ - InfoSearch é uma aplicação full stack web construída durando o 3º módulo do curso de **Densenvolvimentos de Sistemas** na [ETE - Ariano Vilar Suassuna](https://sites.google.com/view/ete-arianovilarsuassuna/)
+ - A aplicação consiste em ver o Preço Histórico de Combustível no Brasil, podendo pesquisar e visualizar os dados dos preços máximos, médios e mínimos dos combustíveis em diferentes estado e anos.
 
 ## Tecnologias utilizadas
 
