@@ -1,5 +1,5 @@
 ## Projeto-Integrador-M3
-["[NPM](https://img.shilds.io/nom/1/react)](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/LICENSE)
+[![NPM](https://img.shilds.io/nom/1/react)](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/LICENSE)
 
 # Sobre o projeto
 
