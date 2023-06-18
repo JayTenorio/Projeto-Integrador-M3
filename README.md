@@ -30,8 +30,8 @@
  - John Thiago Correia Tenório
  - María Leonês Vieira Félix
  - Michael Douglas Silva Cavalcante
- - Sâmelly Vilela Ferreira Félix
- - Tiago Dos Santos Silva
+ - [Sâmelly Vilela Ferreira Félix](http://github.com/Samelly33)
+ - [Tiago Dos Santos Silva](http://github.com/tiagossylva)
 
 ## Agradecimentos
 
