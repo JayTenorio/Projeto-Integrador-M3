@@ -6,7 +6,7 @@
 
 ## Sobre o projeto
 
- - InfoSearch é uma aplicação full stack web construída durante o 3º módulo do curso de **Densenvolvimento de Sistemas** na instituição [ETE - Ariano Vilar Suassuna](https://sites.google.com/view/ete-arianovilarsuassuna/)
+ - InfoSearch é uma aplicação full stack web construída durante o 3º módulo do curso de **Desenvolvimento de Sistemas** na instituição [ETE - Ariano Vilar Suassuna](https://sites.google.com/view/ete-arianovilarsuassuna/)
  - A aplicação consiste em ver o Preço Histórico de Combustível no Brasil, podendo pesquisar e visualizar os dados dos preços máximos, médios e mínimos dos combustíveis em diferentes estados e anos.
 
 # Tecnologias utilizadas
