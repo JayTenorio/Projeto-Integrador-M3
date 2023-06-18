@@ -32,3 +32,10 @@
  - Michael Douglas Silva Cavalcante
  - Sâmelly Vilela
  - Tiago Dos Santos Silva
+
+## Agradecimentos
+
+###Professores da instituição [ETE - Ariano Vilar Suassuna](https://sites.google.com/view/ete-arianovilarsuassuna/):
+
+ - [Professor Lairson Alencar](https://github.com/lerao)
+ - [Professor Geovan Alves]()
