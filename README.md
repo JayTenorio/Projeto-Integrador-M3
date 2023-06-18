@@ -26,11 +26,11 @@
 
 ## Desenvolvedores
  - Daniel Vieira Barbosa Da Silva
- - José Elton
+ - José Elton da Silva
  - John Thiago Correia Tenório
- - María Leonês
+ - María Leonês Vieira Félix
  - Michael Douglas Silva Cavalcante
- - Sâmelly Vilela
+ - Sâmelly Vilela Ferreira Félix
  - Tiago Dos Santos Silva
 
 ## Agradecimentos
