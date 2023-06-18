@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Preço Histórico de Combustível no Brasil</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1>Inforsearch</h1>
+        </div>
+
+        <h2>Dados Históricos do Preço do Combustível no Brasil</h2>
+
+        <table>
+       <div class="container">
+                <div class="info">
+                    <h3>Como funciona</h3>
+                    <p>
+                        Bem-vindo ao nosso site de Preço Histórico de Combustível no Brasil.
+                        Aqui você pode pesquisar e visualizar os dados dos preços médios, mínimos
+                        e máximos dos combustíveis em diferentes estados e anos específicos.
+                    </p>
+                    <p>
+                        Utilize o formulário à direita para fazer uma pesquisa. Selecione o ano,
+                        o tipo de combustível e o estado desejado e clique em "Pesquisar" para obter
+                        os dados correspondentes.
+                    </p>
+                </div>
+
+                <div class="search">
+                    <h3>Pesquisar</h3>
+                    <form action="/search" method="POST">
+                        <label for="ano">Ano:</label>
+                        <input type="text" id="ano" name="ano" required>
+
+                        <label for="combustivel">Combustível:</label>
+                        <select id="combustivel" name="combustivel" required>
+                            <option value="gasolina">Gasolina</option>
+                            <option value="etanol">Etanol</option>
+                            <option value="diesel">Diesel</option>
+                        </select>
+
+                        <label for="estado">Estado:</label>
+                        <input type="text" id="estado" name="estado" required>
+
+                        <input type="submit" value="Pesquisar">
+                    </form>
+                </div>
+            </div>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Preço Médio</th>
+                        <th>Preço Mínimo</th>
+                        <th>Preço Máximo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for registro in registros %}
+                    <tr>
+                        <td>{{ registro.data }}</td>
+                        <td>{{ registro.preco_medio }}</td>
+                        <td>{{ registro.preco_minimo }}</td>
+                        <td>{{ registro.preco_maximo }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2023 Inforsearch. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
