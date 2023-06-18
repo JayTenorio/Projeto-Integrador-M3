@@ -38,4 +38,4 @@
 ### Professores da instituição [ETE - Ariano Vilar Suassuna](https://sites.google.com/view/ete-arianovilarsuassuna/)
 
  - [Professor Lairson Alencar](https://github.com/lerao)
- - [Professor Geovan Alves]()
+ - [Professor Geovan Alves](http://github.com/Geovan1305)
