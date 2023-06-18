@@ -25,7 +25,7 @@
  - Banco de dados: Mysql
 
 ## Desenvolvedores
- - Daniel Vieira Barbosa Da Silva
+ - [Daniel Vieira Barbosa Da Silva](https://github.com/NDanielW)
  - José Elton da Silva
  - John Thiago Correia Tenório
  - María Leonês Vieira Félix
