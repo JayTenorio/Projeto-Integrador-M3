@@ -26,7 +26,7 @@
 
 ## Desenvolvedores
  - [Daniel Vieira Barbosa Da Silva](https://github.com/NDanielW)
- - [José Elton da Silva]()
+ - [José Elton da Silva](https://github.com/JoseElton)
  - [John Thiago Correia Tenório](https://github.com/JayTenorio)
  - [María Leonês Vieira Félix](https://github.com/marialeones)
  - [Michael Douglas Silva Cavalcante]()
