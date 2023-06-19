@@ -26,10 +26,10 @@
 
 ## Desenvolvedores
  - [Daniel Vieira Barbosa Da Silva](https://github.com/NDanielW)
- - José Elton da Silva
- - John Thiago Correia Tenório
- - María Leonês Vieira Félix
- - Michael Douglas Silva Cavalcante
+ - [José Elton da Silva]()
+ - [John Thiago Correia Tenório](https://github.com/JayTenorio)
+ - [María Leonês Vieira Félix](https://github.com/marialeones)
+ - [Michael Douglas Silva Cavalcante]()
  - [Sâmelly Vilela Ferreira Félix](http://github.com/Samelly33)
  - [Tiago Dos Santos Silva](http://github.com/tiagossylva)
 
