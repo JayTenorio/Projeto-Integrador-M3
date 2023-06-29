@@ -30,7 +30,7 @@
  - [José Elton da Silva](https://github.com/JoseElton)
  - [John Thiago Correia Tenório](https://github.com/JayTenorio)
  - [María Leonês Vieira Félix](https://github.com/marialeones)
- - [Michael Douglas Silva Cavalcante]()
+ - [Michael Douglas Silva Cavalcante](https://github.com/Michaelm4Douglas)
  - [Sâmelly Vilela Ferreira Félix](http://github.com/Samelly33)
  - [Tiago Dos Santos Silva](http://github.com/tiagossylva)
 
