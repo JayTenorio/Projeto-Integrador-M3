@@ -14,14 +14,15 @@
 
  - PYTHON
  - FLASK
+ - JS
 
 ## Front end
 
- - HTML / CSS / JS
+ - HTML / CSS 
 
 ## Implantação em produção
 
- - Back end: Heroku
+ - Back end: Render
  - Banco de dados: Mysql
 
 ## Desenvolvedores
