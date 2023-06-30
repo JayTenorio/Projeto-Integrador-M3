@@ -23,7 +23,7 @@
 ## Implantação em produção
 
  - Back end: Render
- - Banco de dados: Mysql
+ - Banco de dados: MySql
 
 ## Desenvolvedores
  - [Daniel Vieira Barbosa Da Silva](https://github.com/NDanielW)
