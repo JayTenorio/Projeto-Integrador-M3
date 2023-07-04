@@ -14,6 +14,7 @@ https://inforsearch.onrender.com/
 ## Layout Web
 ![Web 1](https://github.com/JayTenorio/assets/blob/main/assets/raw/main/sds1/main1.PNG)
 
+![Web 2](https://github.com/JayTenorio/assets/blob/main/assets/raw/main/sds1/consulta.png)
 # Tecnologias utilizadas
 ## Back end
 
