@@ -14,7 +14,7 @@ https://inforsearch.onrender.com/
 ## Layout Web
 ![Web 1](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/assets/main1.PNG)
 
-![Web 2](https://github.com/JayTenorio/assets/blob/main/assets/raw/main/sds1/consulta.png)
+![Web 2](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/assets/consulta.png)
 # Tecnologias utilizadas
 ## Back end
 
