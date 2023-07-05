@@ -12,7 +12,7 @@ https://inforsearch.onrender.com/
  - A aplicação consiste em ver o Preço Histórico de Combustível no Brasil, podendo pesquisar e visualizar os dados dos preços máximos, médios e mínimos dos combustíveis em diferentes estados e anos.
 
 ## Layout Web
-![Web 1](https://github.com/JayTenorio/assets/blob/main/assets/raw/main/sds1/main1.PNG)
+![Web 1](https://github.com/JayTenorio/Projeto-Integrador-M3/blob/main/assets/main1.PNG)
 
 ![Web 2](https://github.com/JayTenorio/assets/blob/main/assets/raw/main/sds1/consulta.png)
 # Tecnologias utilizadas
